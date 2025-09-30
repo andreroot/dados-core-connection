@@ -1,0 +1,7 @@
+pandas==2.0.2
+awswrangler==3.2.1
+boto3==1.26.158
+pymsteams==0.2.2
+python-dotenv==1.0.0
+pyarrow==14.0.0
+requests==2.31.0
